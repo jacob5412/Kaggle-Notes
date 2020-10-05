@@ -1,2 +1,1 @@
-# Kaggle-Notes
-Kaggle kernels with notes
+# Kaggle kernels with notes
